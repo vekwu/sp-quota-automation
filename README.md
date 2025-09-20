@@ -1,4 +1,3 @@
-# sp-quota-automation
 # SharePoint Online Storage Quota Automation
 
 ## 📌 Project Overview
